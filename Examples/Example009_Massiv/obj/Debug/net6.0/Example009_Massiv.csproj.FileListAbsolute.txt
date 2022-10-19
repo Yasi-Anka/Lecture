@@ -1,0 +1,15 @@
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.csproj.AssemblyReference.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.AssemblyInfoInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.AssemblyInfo.cs
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.csproj.CoreCompileInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\bin\Debug\net6.0\Example009_Massiv.exe
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\bin\Debug\net6.0\Example009_Massiv.deps.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\bin\Debug\net6.0\Example009_Massiv.runtimeconfig.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\bin\Debug\net6.0\Example009_Massiv.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\bin\Debug\net6.0\Example009_Massiv.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\refint\Example009_Massiv.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\Example009_Massiv.genruntimeconfig.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example009_Massiv\obj\Debug\net6.0\ref\Example009_Massiv.dll

@@ -1,0 +1,15 @@
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.csproj.AssemblyReference.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.AssemblyInfoInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.AssemblyInfo.cs
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.csproj.CoreCompileInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.exe
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.deps.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.runtimeconfig.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\bin\Debug\net6.0\Example008_Metod.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\refint\Example008_Metod.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\Example008_Metod.genruntimeconfig.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example008_Metod\obj\Debug\net6.0\ref\Example008_Metod.dll

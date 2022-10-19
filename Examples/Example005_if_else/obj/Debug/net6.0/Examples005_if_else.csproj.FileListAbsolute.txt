@@ -1,0 +1,15 @@
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\bin\Debug\net6.0\Examples005_if_else.exe
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\bin\Debug\net6.0\Examples005_if_else.deps.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\bin\Debug\net6.0\Examples005_if_else.runtimeconfig.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\bin\Debug\net6.0\Examples005_if_else.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\bin\Debug\net6.0\Examples005_if_else.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.csproj.AssemblyReference.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.AssemblyInfoInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.AssemblyInfo.cs
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.csproj.CoreCompileInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\refint\Examples005_if_else.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\Examples005_if_else.genruntimeconfig.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Examples005_if_else\obj\Debug\net6.0\ref\Examples005_if_else.dll

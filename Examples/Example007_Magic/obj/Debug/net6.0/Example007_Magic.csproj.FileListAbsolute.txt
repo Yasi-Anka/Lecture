@@ -1,0 +1,15 @@
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\refint\Example007_Magic.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
