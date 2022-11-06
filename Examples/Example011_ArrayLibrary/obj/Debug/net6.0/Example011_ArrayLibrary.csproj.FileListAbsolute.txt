@@ -1,0 +1,15 @@
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\КАПУСТА\Учёба ИТ\Языки программирования\Lecture\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll
